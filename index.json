@@ -1,0 +1,11 @@
+{
+  "org": "fastapi",
+  "repo": "annotated-doc",
+  "versions": [
+    {
+      "commit": "e6e7324ff5ab80bbde7bab5e9ba2c35662e81fe5",
+      "tag": "",
+      "parsed_at": "2026-10-10T23:03:39.763190+00:00"
+    }
+  ]
+}
