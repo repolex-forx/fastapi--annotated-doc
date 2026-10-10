@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/fastapi/annotated-doc/commit/e6e7324ff5ab80bbde7bab5e9ba2c35662e81fe5",
       "git:hexsha": "e6e7324ff5ab80bbde7bab5e9ba2c35662e81fe5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T23:03:39.762536+00:00"
     },
     {
       "@id": "https://repolex.ai/r/fastapi/annotated-doc/commit/4cff021a7cc5fe3009a49ec655f2e3e920f73e0c",
